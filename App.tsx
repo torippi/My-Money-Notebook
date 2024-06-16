@@ -7,7 +7,7 @@ export default function App() {
       <Text>こんにちは</Text>
       <Text>Open up App.tsx to start working on your app!</Text>
       <Button
-        title="警告"
+        title="Button Pressed"
         onPress={() => Alert.alert('Button pressed')}
       />
       <StatusBar style="auto" />
